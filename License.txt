@@ -1,0 +1,47 @@
+This presentation is copyright (c) Roy Keyes and Steve Koch
+License: Creative Commons Attribution-Share Alike 4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+
+
+Licenses of graphics used in this project:
+
+File: hard_drives1.pdf
+Original: Hdd_icon.svg
+Author: Everaldo Coelho and YellowIcon
+License: LGPL
+
+File: mary_had.pdf
+Includes:
+    Original: lamb-plot.svg
+    Author: Toby Hudson
+    License: Creative Commons Attribution-Share Alike 3.0 Australia license
+
+    Original: lamb.svg
+    Author: TomKr
+    License: Creative Commons Attribution-Share Alike 3.0 Unported, 2.5 Generic, 2.0 Generic and 1.0 Generic license.
+
+File: racial_dot_map-ABQ1.png
+Screenshot from CooperCenter.org's interactive Racial Dot Map. Image used under Fair Use for educational purposes.
+
+The following graphic files are in the public domain (originally in SVG format):
+Loader.pdf
+Netflix.pdf
+Normal_Distribution_PDF.pdf
+Social-network.pdf
+
+The following are copyright (c) 2013 Roy Keyes
+License: Creative Commons Attribution-Share Alike 4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+big-data1.pdf
+components.pdf
+components-b.pdf
+data_cloud2.pdf
+data_increase.pdf
+data_preparation.pdf
+machine_learning.pdf
+mapreduce.pdf
+value.pdf
+
+The following are copyright (c) 2013 Roy Keyes
+License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+data_title2.pdf
+salary-distribution1.pdf
+salary-by-department-median1.pdf
