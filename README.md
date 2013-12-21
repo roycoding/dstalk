@@ -2,7 +2,7 @@
 
 These are the slides for a talk that gives a general overview of data science and briefer overview of "big data". The title is _Data Science, Big Data, and other buzzwords_.
 
-This slide deck is a more generic version of a talk we gave at the ABQ Tech Fiesta 2013. We hope it will be useful for others creating talks on the topic. Please feel free to re-use and modify the talk and graphics under the terms listed in the License.txt document.
+This slide deck is a more generic version of a [talk](https://github.com/roycoding/datascitalk) we gave at the ABQ Tech Fiesta 2013. We hope it will be useful for others creating talks on the topic. Please feel free to re-use and modify the talk and graphics under the terms listed in the License.txt document.
 
 This presentation is licensed under the CC BY-SA 4.0 terms.
 
